@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage solution
 
-This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -26,18 +26,18 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop: 
+- Desktop:
 
 ![](./screenshots/Desktop.png)
 
-- Mobile: 
+- Mobile:
 
 ![](./screenshots/Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/fborlido/fm-news-homepage-main](https://github.com/fborlido/fm-news-homepage-main)
+- Live Site URL: [https://fred-fm-news-homepage-main.netlify.app/](https://fred-fm-news-homepage-main.netlify.app/)
 
 ## My process
 

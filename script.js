@@ -4,7 +4,7 @@ const openBtn = document.getElementById("openBtn");
 const closeBtn = document.getElementById("closeBtn");
 
 const handleToggleMenu = () => {
-  document.body.classList.toggle("overflow-hidden");
+  document.body.classList.toggle("overflow-y-hidden");
   bgBlur.classList.toggle("opacity-0");
   bgBlur.classList.toggle("-z-10");
   sideNav.classList.toggle("opacity-0");
